@@ -15,6 +15,9 @@ footer {
   display: block;
 }
 
+footer a {
+  color: rgb(20, 134, 33);
+}
 body {
   background-color: bisque;
 }
